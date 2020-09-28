@@ -4,7 +4,7 @@ hello2 = "пока, девчёнки"
 
 devchenki = nil
 
-if (devchenki==true)
+if (devchenki == nil)
     puts hello2
 else 
     puts hello    
