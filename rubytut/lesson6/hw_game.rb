@@ -3,7 +3,7 @@ puts "Введите вариант: 0 - камень, 1 - ножницы, 2 - �
 choice_user = gets.chomp.to_i
 
 if choice_user > 2 or choice_user < 0
-    abort "Ошибка ввода!"      
+    abort "Провит фака нету знака, против дули нету пули!"      
 end    
 
 choice_comp = answer.sample
