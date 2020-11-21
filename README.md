@@ -1,5 +1,7 @@
 # RubyRush
 
 ## Useg
+---
 
-All file in folder: 	/rubytut
+All file in folder:
+	/rubytut
